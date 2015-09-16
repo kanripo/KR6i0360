@@ -1,23 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:19.703582
+#+DATE: 2015-08-30 20:17:21.944108
 #+TITLE: 大乘密嚴經
 #+PROPERTY: CBETA_ID T16n0682
 #+PROPERTY: ID KR6i0360
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 682
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0360_T_000-0747b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0360_T_002-0755c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 中《大乘密嚴經》卷中¶
+《大乘密嚴經》卷中¶
 ¶
-開府儀同三司特進試鴻臚卿¶
-肅國公食邑三千戶賜紫贈司空¶
-諡大鑑正號大廣智大興善寺¶
+開府儀同三司特進試鴻臚卿肅國公食邑三千戶賜紫贈司空諡大鑑正號大廣智大興善寺¶
 三藏沙門不空奉　詔譯¶
 入密嚴微妙身生品之餘¶
 
@@ -644,11 +641,7 @@
 #+END_VERSE
 」¶
 
-3胎藏生品(中)
-:PROPERTIES:
-:head: 《大乘密嚴經》胎藏生品第三
-:END:
-¶
+《大乘密嚴經》胎藏生品第三¶
 
 #+BEGIN_VERSE
 「　爾時金剛藏
@@ -737,11 +730,7 @@
 #+END_VERSE
 」¶
 
-4自作境界品(中)
-:PROPERTIES:
-:head: 《大乘密嚴經》自作境界品第四
-:END:
-¶
+《大乘密嚴經》自作境界品第四¶
 
 #+BEGIN_VERSE
 「　爾時金剛藏
@@ -1240,11 +1229,7 @@
 #+END_VERSE
 」¶
 
-5辯觀行品(中)
-:PROPERTIES:
-:head: 《大乘密嚴經》辯觀行品第五
-:END:
-¶
+《大乘密嚴經》辯觀行品第五¶
 
 #+BEGIN_VERSE
 「　爾時金剛藏
@@ -1406,7 +1391,7 @@
 　比至燒已成
 　各隨其泥色¶
 　從箭竹生葱
-　從角生於䔉
+　從角生於[卄/秝]
 <pb:KR6i0360_T_002-0763c>¶
 　穢蠅與敗蜜
 　各得生於蟲¶
@@ -1441,11 +1426,7 @@
 #+END_VERSE
 」¶
 
-6趣入阿賴耶品(中)
-:PROPERTIES:
-:head: 《大乘密嚴經》趣入阿賴耶品第六
-:END:
-¶
+《大乘密嚴經》趣入阿賴耶品第六¶
 
 #+BEGIN_VERSE
 「　爾時金剛藏
