@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:19.759444
+#+DATE: 2015-08-30 20:17:20.792021
 #+TITLE: 大乘密嚴經
 #+PROPERTY: CBETA_ID T16n0682
 #+PROPERTY: ID KR6i0360
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 682
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6i0360_T_000-0747b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0360_T_003-0766b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 下《大乘密嚴經》卷下¶
+《大乘密嚴經》卷下¶
 ¶
 開府儀同三司特進試鴻臚卿¶
 肅國公食邑三千戶賜紫贈司空¶
 諡大鑒正號大廣智大興善寺¶
 三藏沙門不空奉　詔譯¶
 
-7我識境界品(下)
-:PROPERTIES:
-:head: 我識境界品第七
-:END:
-¶
+我識境界品第七¶
 
 爾時金剛藏菩薩摩訶薩。遍觀十方。從髻珠¶
 中出大光明。照諸世界及他化自在天宮。并¶
@@ -61,11 +56,7 @@
 菩薩摩訶薩亦應如是。既自勤修復為人說。¶
 令其速入密嚴佛土。¶
 
-8阿賴耶即密嚴品(下)
-:PROPERTIES:
-:head: 《大乘密嚴經》阿賴耶即密嚴品第八
-:END:
-¶
+《大乘密嚴經》阿賴耶即密嚴品第八¶
 
 #+BEGIN_VERSE
 「　爾時金剛藏
@@ -1087,7 +1078,7 @@
 　妄立於名字¶
 　師子虎熊羆
 　馬驢馲駝類¶
-　𪚻龜與瑇瑁
+　[央/龜]龜與瑇瑁
 　彼等皆無角¶
 　何故不分別
 　唯言兔角無¶
